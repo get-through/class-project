@@ -27,6 +27,7 @@ in	IN
 the	DT
 sky	NN
 .	.
+
 As	IN
 a	DT
 new	JJ
@@ -55,6 +56,7 @@ rescue	VB
 lost	VBN
 narratives	NNS
 .	.
+
 ``	``
 There	EX
 are	VBP
@@ -89,6 +91,7 @@ says	VBZ
 Tomás	NNP
 Saraceno	NNP
 .	.
+
 For	IN
 his	PRP$
 latest	JJS
@@ -136,6 +139,7 @@ interspecies	NNS
 communication	NN
 ''	''
 .	.
+
 Trained	VBN
 as	IN
 an	DT
@@ -182,6 +186,7 @@ above	IN
 the	DT
 Earth	NNP
 .	.
+
 ``	``
 We	PRP
 need	VBP
@@ -219,6 +224,7 @@ Blue-sky	JJ
 Thinking	NNP
 series	NN
 .	.
+
 Video	NNP
 by	IN
 Madeline	NNP
@@ -242,6 +248,7 @@ until	IN
 17	CD
 April	NNP
 .	.
+
 If	IN
 you	PRP
 would	MD
@@ -273,6 +280,7 @@ us	PRP
 on	IN
 Twitter	NNP
 .	.
+
 And	CC
 if	IN
 you	PRP
@@ -294,6 +302,7 @@ The	DT
 Essential	NNP
 List	NNP
 .	.
+
 A	NNP
 handpicked	JJ
 selection	NN
@@ -316,6 +325,7 @@ inbox	NN
 every	DT
 Friday	NNP
 .	.
+
 The	DT
 mythical	JJ
 goddesses	NNS
@@ -327,13 +337,14 @@ of	IN
 sex	NN
 and	CC
 power	NN
--	:
+–	NN
 and	CC
 manifested	VBD
 our	PRP$
 worst	JJ
 anxieties	NNS
 .	.
+
 Daisy	NNP
 Dunn	NNP
 explores	VBZ
@@ -346,7 +357,8 @@ both	DT
 revered	VBN
 and	CC
 feared	VBN
-I	PRP
+.	.
+
 In	IN
 the	DT
 1st	JJ
@@ -382,6 +394,7 @@ upon	NN
 for	IN
 help	NN
 .	.
+
 The	DT
 goddess	NN
 Sulis	NNP
@@ -423,6 +436,7 @@ capacity	NN
 for	IN
 vengeance	NN
 .	.
+
 More	JJR
 than	IN
 100	CD
@@ -458,36 +472,11 @@ people	NNS
 's	POS
 possessions	NNS
 .	.
+
 Thieves	NNS
-beware	VBP
+beware	NN
 .	.
-More	JJR
-like	IN
-this	DT
-:	:
--	:
-The	DT
-ancient	JJ
-enigma	NN
-that	WDT
-still	RB
-resonates	VBZ
--	:
-Why	WRB
-magic	NN
-'s	POS
-secret	JJ
-symbols	NNS
-fascinate	VBP
-us	PRP
--	:
-Eight	JJ
-nature	NN
-books	NNS
-to	TO
-change	VB
-your	PRP$
-life	NN
+
 Sulis	NNP
 is	VBZ
 just	RB
@@ -515,6 +504,7 @@ Museum	NNP
 in	IN
 London	NNP
 .	.
+
 Examining	VBG
 the	DT
 prominence	NN
@@ -547,6 +537,7 @@ in	IN
 divine	JJ
 faces	VBZ
 .	.
+
 Sharing	VBG
 the	DT
 gallery	NN
@@ -582,78 +573,7 @@ the	DT
 Mexican	NNP
 Coatlicue	NNP
 .	.
-The	DT
-painted	JJ
-clay	NN
-relief	NN
-Queen	NNP
-of	IN
-the	DT
-Night	NNP
-(	(
-circa	NN
-1750	CD
-BCE	NNP
-)	)
-from	IN
-Iraq	NNP
-is	VBZ
-exhibited	VBN
-at	IN
-the	DT
-new	JJ
-show	NN
-Feminine	NNP
-Power	NNP
-at	IN
-the	DT
-British	JJ
-Museum	NNP
-(	(
-Credit	NNP
-:	:
-Trustees	NNS
-of	IN
-the	DT
-British	NNP
-Museum	NNP
-)	)
-The	DT
-painted	VBN
-clay	NN
-relief	NN
-Queen	NNP
-of	IN
-the	DT
-Night	NNP
-(	(
-circa	NN
-1750	CD
-BCE	NNP
-)	)
-from	IN
-Iraq	NNP
-is	VBZ
-exhibited	VBN
-at	IN
-the	DT
-new	JJ
-show	NN
-Feminine	NNP
-Power	NNP
-at	IN
-the	DT
-British	JJ
-Museum	NNP
-(	(
-Credit	NNP
-:	:
-Trustees	NNS
-of	IN
-the	DT
-British	NNP
-Museum	NNP
-)	)
+
 It	PRP
 is	VBZ
 striking	VBG
@@ -670,6 +590,7 @@ seemingly	RB
 contradictory	JJ
 qualities	NNS
 .	.
+
 Just	RB
 as	IN
 Sulis	NNP
@@ -703,6 +624,7 @@ sex	NN
 and	CC
 war	NN
 .	.
+
 An	DT
 early	JJ
 hymn	NN
@@ -729,6 +651,7 @@ they	PRP
 leave	VBP
 behind	NNS
 .	.
+
 In	IN
 other	JJ
 writings	NNS
@@ -747,6 +670,7 @@ mortals	NNS
 she	PRP
 favours	VBZ
 .	.
+
 Sumerian	JJ
 kings	NNS
 did	VBD
@@ -775,6 +699,7 @@ protection	NN
 in	IN
 war	NN
 .	.
+
 This	DT
 was	VBD
 ,	,
@@ -792,17 +717,7 @@ of	IN
 her	PRP$
 authority	NN
 .	.
-The	DT
-Roman	NNP
-goddess	NN
-Venus	NNP
-overstepped	VBD
-the	DT
-accepted	JJ
-boundaries	NNS
-with	IN
-particular	JJ
-aplomb	VBP
+
 The	DT
 ability	NN
 of	IN
@@ -831,6 +746,7 @@ most	JJS
 mortal	JJ
 women	NNS
 .	.
+
 Inanna	NNP
 ,	,
 who	WP
@@ -861,6 +777,7 @@ herself	PRP
 were	VBD
 male	JJ
 .	.
+
 Professor	NNP
 Mary	NNP
 Beard	NNP
@@ -906,6 +823,7 @@ female	JJ
 gender	NN
 ''	''
 .	.
+
 The	DT
 Roman	NNP
 goddess	NN
@@ -918,6 +836,7 @@ with	IN
 particular	JJ
 aplomb	NN
 .	.
+
 Like	IN
 Inanna	NNP
 ,	,
@@ -939,6 +858,7 @@ in	IN
 the	DT
 bedroom	NN
 .	.
+
 Mary	NNP
 Beard	NNP
 explains	VBZ
@@ -965,6 +885,7 @@ its	PRP$
 military	JJ
 victories	NNS
 .	.
+
 ''	''
 Julius	NNP
 Caesar	NNP
@@ -997,6 +918,7 @@ of	IN
 his	PRP$
 coinage	NN
 .	.
+
 Later	NNP
 leaders	NNS
 ,	,
@@ -1015,6 +937,7 @@ of	IN
 their	PRP$
 authority	NN
 .	.
+
 Minerva	NNP
 was	VBD
 depicted	VBN
@@ -1032,46 +955,7 @@ Queen	NNP
 Elizabeth	NNP
 I	PRP
 .	.
-The	DT
-ancient	JJ
-goddess	NN
-Kali	NNP
-Murti	NNP
-represents	VBZ
-time	NN
-,	,
-doomsday	NN
-and	CC
-death	NN
-(	(
-Credit	NNP
-:	:
-Trustees	NNS
-of	IN
-the	DT
-British	NNP
-Museum	NNP
-)	)
-The	DT
-ancient	JJ
-goddess	NN
-Kali	NNP
-Murti	NNP
-represents	VBZ
-time	NN
-,	,
-doomsday	NN
-and	CC
-death	NN
-(	(
-Credit	NNP
-:	:
-Trustees	NNS
-of	IN
-the	DT
-British	NNP
-Museum	NNP
-)	)
+
 The	DT
 idea	NN
 that	WDT
@@ -1094,6 +978,7 @@ is	VBZ
 certainly	RB
 belied	VBN
 .	.
+
 Amenhotep	NNP
 ,	,
 a	DT
@@ -1139,6 +1024,7 @@ pestilence	NN
 and	CC
 plague	NN
 .	.
+
 And	CC
 men	NNS
 were	VBD
@@ -1161,6 +1047,7 @@ still	RB
 survive	VBP
 today	NN
 .	.
+
 Belinda	NNP
 Crerar	NNP
 ,	,
@@ -1192,6 +1079,7 @@ making	VBG
 the	DT
 objects	NNS
 .	.
+
 We	PRP
 tend	VBP
 to	TO
@@ -1210,6 +1098,7 @@ necessarily	RB
 the	DT
 case	NN
 .	.
+
 In	IN
 the	DT
 first	JJ
@@ -1232,11 +1121,9 @@ and	CC
 decorated	VBN
 by	IN
 women	NNS
-.	.
 ''	''
-Feared	NNP
-and	CC
-revered	VBD
+.	.
+
 While	IN
 many	JJ
 goddesses	NNS
@@ -1267,6 +1154,7 @@ do	VB
 the	DT
 opposite	NN
 .	.
+
 Female	JJ
 figures	NNS
 of	IN
@@ -1293,6 +1181,7 @@ was	VBD
 needed	VBN
 most	RBS
 .	.
+
 Among	IN
 the	DT
 Sumerians	NNPS
@@ -1333,6 +1222,7 @@ steal	VB
 their	PRP$
 babies	NNS
 .	.
+
 In	IN
 Mexico	NNP
 ,	,
@@ -1373,6 +1263,7 @@ from	IN
 their	PRP$
 cradles	NNS
 .	.
+
 And	CC
 Lilith	NNP
 was	VBD
@@ -1394,6 +1285,7 @@ death	NN
 and	CC
 sterility	NN
 .	.
+
 A	DT
 haunting	JJ
 sculpture	NN
@@ -1414,6 +1306,7 @@ of	IN
 the	DT
 exhibition	NN
 .	.
+
 Her	PRP$
 fierce	JJ
 blue	JJ
@@ -1426,50 +1319,7 @@ you	PRP
 off	RP
 guard	NN
 .	.
-A	DT
-1994	CD
-sculpture	NN
-by	IN
-Kiki	NNP
-Smith	NNP
-depicts	VBZ
-Lilith	NNP
-as	IN
-a	DT
-bringer	NN
-of	IN
-infant	JJ
-death	NN
-and	CC
-sterility	NN
-(	(
-Credit	NNP
-:	:
-Pace	NNP
-Gallery	NNP
-)	)
-A	DT
-1994	CD
-sculpture	NN
-by	IN
-Kiki	NNP
-Smith	NNP
-depicts	VBZ
-Lilith	NNP
-as	IN
-a	DT
-bringer	NN
-of	IN
-infant	JJ
-death	NN
-and	CC
-sterility	NN
-(	(
-Credit	NNP
-:	:
-Pace	NNP
-Gallery	NNP
-)	)
+
 These	DT
 deities	NNS
 were	VBD
@@ -1480,6 +1330,7 @@ real	JJ
 human	JJ
 fears	NNS
 .	.
+
 It	PRP
 would	MD
 be	VB
@@ -1507,22 +1358,7 @@ figures	NNS
 of	IN
 power	NN
 .	.
-These	DT
-stories	NNS
-had	VBD
-agency	NN
-because	IN
-feminine	NN
-power	NN
-was	VBD
-intrinsic	JJ
-to	TO
-man	NN
-'s	POS
-conception	NN
-of	IN
-our	PRP$
-planet	NN
+
 In	IN
 many	JJ
 early	JJ
@@ -1547,6 +1383,7 @@ of	IN
 Earth	NNP
 goddesses	NNS
 .	.
+
 The	DT
 ancient	JJ
 Greek	NNP
@@ -1569,6 +1406,7 @@ of	IN
 the	DT
 seasons	NNS
 .	.
+
 Upon	IN
 hearing	VBG
 that	IN
@@ -1597,6 +1435,7 @@ protected	VBD
 to	TO
 fail	VB
 .	.
+
 Persephone	NNP
 's	POS
 consumption	NN
@@ -1616,6 +1455,7 @@ the	DT
 year	NN
 only	RB
 .	.
+
 Her	PRP$
 return	NN
 to	TO
@@ -1635,6 +1475,7 @@ and	CC
 its	PRP$
 fruits	NNS
 .	.
+
 Similarly	RB
 ,	,
 in	IN
@@ -1662,6 +1503,7 @@ in	IN
 the	DT
 fields	NNS
 .	.
+
 These	DT
 stories	NNS
 had	VBD
@@ -1679,6 +1521,7 @@ of	IN
 our	PRP$
 planet	NN
 .	.
+
 In	IN
 Hinduism	NNP
 ,	,
@@ -1701,6 +1544,7 @@ after	IN
 she	PRP
 died	VBD
 .	.
+
 Her	PRP$
 body	NN
 fell	VBD
@@ -1733,6 +1577,7 @@ to	TO
 have	VB
 settled	VBN
 .	.
+
 Still	RB
 today	NN
 ,	,
@@ -1745,6 +1590,7 @@ in	IN
 monsoon	NN
 season	NN
 .	.
+
 Worshippers	NNS
 gaze	VBP
 in	IN
@@ -1762,6 +1608,7 @@ of	IN
 iron	NN
 oxide	NN
 .	.
+
 It	PRP
 is	VBZ
 as	IN
@@ -1771,49 +1618,8 @@ goddess	NN
 were	VBD
 menstruating	VBG
 .	.
-In	IN
-an	DT
-1891	CD
-painting	NN
-by	IN
-John	NNP
-William	NNP
-Waterhouse	NNP
-,	,
-Circe	NNP
-offers	VBZ
-a	DT
-cup	NN
-to	TO
-Ulysses	NNP
-(	(
-Credit	NNP
-:	:
-Gallery	NNP
-Oldham	NNP
-)	)
-In	IN
-an	DT
-1891	CD
-painting	NN
-by	IN
-John	NNP
-William	NNP
-Waterhouse	NNP
-,	,
-Circe	NNP
-offers	VBZ
-a	DT
-cup	NN
-to	TO
-Ulysses	NNP
-(	(
-Credit	NNP
-:	:
-Gallery	NNP
-Oldham	NNP
-)	)
-As	NNP
+
+As	RB
 important	JJ
 as	IN
 these	DT
@@ -1851,6 +1657,7 @@ would	MD
 be	VB
 disastrous	JJ
 .	.
+
 While	IN
 the	DT
 Egyptian	JJ
@@ -1873,6 +1680,7 @@ also	RB
 deliver	VB
 destruction	NN
 .	.
+
 It	PRP
 was	VBD
 said	VBD
@@ -1897,6 +1705,7 @@ god	NN
 ,	,
 Ra	NNP
 .	.
+
 Sekhmet	NNP
 did	VBD
 as	IN
@@ -1908,6 +1717,7 @@ got	VBD
 carried	VBN
 away	RB
 .	.
+
 Ra	NNP
 was	VBD
 so	RB
@@ -1920,12 +1730,14 @@ he	PRP
 recalled	VBD
 her	PRP
 .	.
+
 Sekhmet	NNP
 would	MD
 not	RB
 give	VB
 up	RP
 .	.
+
 The	DT
 only	JJ
 way	NN
@@ -1952,6 +1764,7 @@ inebriated	JJ
 to	TO
 continue	VB
 .	.
+
 Still	RB
 today	NN
 ,	,
@@ -1987,6 +1800,7 @@ smash	VB
 glass	NN
 ceilings	NNS
 .	.
+
 If	IN
 the	DT
 examples	NNS
@@ -2015,6 +1829,7 @@ and	CC
 defy	JJ
 expectation	NN
 .	.
+
 They	PRP
 are	VBP
 brilliant	JJ
@@ -2027,6 +1842,7 @@ they	PRP
 are	VBP
 not	RB
 .	.
+
 Daisy	NNP
 Dunn	NNP
 's	POS
@@ -2047,9 +1863,10 @@ is	VBZ
 out	RP
 now	RB
 .	.
+
 Feminine	NNP
 Power	NNP
--	:
+–	VBD
 the	DT
 Divine	NNP
 to	TO
@@ -2067,6 +1884,7 @@ until	IN
 25	CD
 September	NNP
 .	.
+
 If	IN
 you	PRP
 would	MD
@@ -2098,6 +1916,7 @@ us	PRP
 on	IN
 Twitter	NNP
 .	.
+
 And	CC
 if	IN
 you	PRP
@@ -2119,6 +1938,7 @@ The	DT
 Essential	NNP
 List	NNP
 .	.
+
 A	NNP
 handpicked	JJ
 selection	NN
@@ -2141,12 +1961,7 @@ inbox	NN
 every	DT
 Friday	NNP
 .	.
-By	IN
-Matthew	NNP
-Wilson	NNP
-10th	CD
-March	NNP
-2022	CD
+
 An	DT
 exhibition	NN
 on	IN
@@ -2171,6 +1986,7 @@ previously	RB
 unacknowledged	JJ
 multi-culturalism	NN
 .	.
+
 These	DT
 artworks	NNS
 from	IN
@@ -2183,8 +1999,8 @@ says	VBZ
 Matt	NNP
 Wilson	NNP
 .	.
-F	NNP
-From	IN
+
+FFrom	NNP
 its	PRP$
 beginnings	NNS
 ,	,
@@ -2214,6 +2030,7 @@ convention	NN
 and	CC
 reasoning	NN
 .	.
+
 Surrealism	NNP
 promised	VBD
 intellectual	JJ
@@ -2231,6 +2048,7 @@ latterly	RB
 visual	JJ
 artists	NNS
 .	.
+
 These	DT
 artists	NNS
 aimed	VBD
@@ -2254,31 +2072,7 @@ impulses	NNS
 and	CC
 dreams	NNS
 .	.
-More	JJR
-like	IN
-this	DT
-:	:
--	:
-The	DT
-woman	NN
-written	VBN
-out	IN
-of	IN
-history	NN
--	:
-The	DT
-meanings	NNS
-hidden	VBN
-in	IN
-a	DT
-masterpiece	NN
--	:
-The	DT
-paintings	NNS
-that	WDT
-reveal	VBP
-the	DT
-truth	NN
+
 And	CC
 subsequently	RB
 a	DT
@@ -2291,6 +2085,7 @@ to	TO
 define	VB
 Surrealism	NNP
 .	.
+
 This	DT
 involved	VBD
 a	DT
@@ -2320,6 +2115,7 @@ manifesto	NN
 in	IN
 1924	CD
 .	.
+
 Mostly	RB
 ,	,
 it	PRP
@@ -2338,6 +2134,7 @@ and	CC
 Max	NNP
 Ernst	NNP
 .	.
+
 It	PRP
 also	RB
 became	VBD
@@ -2353,6 +2150,7 @@ and	CC
 New	NNP
 York	NNP
 .	.
+
 ``	``
 That	DT
 's	VBZ
@@ -2392,6 +2190,7 @@ tells	VBZ
 BBC	NNP
 Culture	NNP
 .	.
+
 ``	``
 Historians	NNPS
 complicate	VBP
@@ -2400,6 +2199,7 @@ by	IN
 doing	VBG
 research	NN
 .	.
+
 ''	''
 This	DT
 research	NN
@@ -2439,6 +2239,7 @@ that	WDT
 deserve	VBP
 re-examination	NN
 .	.
+
 ``	``
 We	PRP
 've	VBP
@@ -2478,6 +2279,7 @@ free	JJ
 individual	JJ
 creativity	NN
 .	.
+
 ''	''
 To	TO
 demonstrate	VB
@@ -2516,16 +2318,7 @@ techniques	NNS
 and	CC
 ideas	NNS
 .	.
-Tusalava	NNP
-(	(
-1929	CD
-)	)
-by	IN
-Len	NNP
-Lye	NNP
-,	,
-New	NNP
-Zealand	NNP
+
 One	CD
 of	IN
 the	DT
@@ -2550,6 +2343,7 @@ Zealand-born	NNP
 Len	NNP
 Lye	NNP
 .	.
+
 In	IN
 it	PRP
 ,	,
@@ -2575,6 +2369,7 @@ then	RB
 vanquish	VB
 him	PRP
 .	.
+
 Lye	NNP
 was	VBD
 inspired	VBN
@@ -2604,6 +2399,7 @@ and	CC
 Samoan	NNP
 art	NN
 .	.
+
 But	CC
 these	DT
 cross-cultural	JJ
@@ -2618,6 +2414,7 @@ of	IN
 the	DT
 Surrealists	NNP
 .	.
+
 ``	``
 It	PRP
 is	VBZ
@@ -2647,6 +2444,7 @@ celluloid	NN
 Gale	NNP
 explains	VBZ
 .	.
+
 Automatism	NNP
 is	VBZ
 a	DT
@@ -2672,6 +2470,7 @@ from	IN
 conscious	JJ
 control	NN
 .	.
+
 The	DT
 film	NN
 –	VBD
@@ -2695,6 +2494,7 @@ breathtakingly	RB
 to	TO
 life	NN
 .	.
+
 With	IN
 its	PRP$
 factory	NN
@@ -2724,6 +2524,7 @@ paean	JJ
 to	TO
 technology	NN
 .	.
+
 This	DT
 was	VBD
 an	DT
@@ -2740,6 +2541,7 @@ in	IN
 European	JJ
 Surrealism	NNP
 .	.
+
 They	PRP
 thought	VBD
 that	IN
@@ -2766,6 +2568,7 @@ Surrealism	NN
 in	IN
 Japan	NNP
 .	.
+
 But	CC
 they	PRP
 retained	VBD
@@ -2789,6 +2592,7 @@ create	VB
 magical	JJ
 effects	NNS
 .	.
+
 ``	``
 What	WP
 Koga	NNP
@@ -2815,6 +2619,7 @@ rational	NN
 Gale	NNP
 says	VBZ
 .	.
+
 This	DT
 is	VBZ
 born	VBN
@@ -2853,6 +2658,7 @@ of	IN
 a	DT
 submarine	NN
 .	.
+
 Surrealism	NN
 was	VBD
 born	VBN
@@ -2880,6 +2686,7 @@ most	RBS
 famous	JJ
 icons	NNS
 .	.
+
 ``	``
 It	PRP
 is	VBZ
@@ -2905,6 +2712,7 @@ irrational	JJ
 Gale	NNP
 explains	VBZ
 .	.
+
 ``	``
 It	PRP
 's	VBZ
@@ -2932,6 +2740,7 @@ around	IN
 the	DT
 world	NN
 .	.
+
 ''	''
 Indeed	RB
 ,	,
@@ -2953,6 +2762,7 @@ and	CC
 with	IN
 Hollywood	NNP
 .	.
+
 He	PRP
 devised	VBD
 a	DT
@@ -2974,6 +2784,7 @@ Walt	NNP
 Disney	NNP
 Studios	NNP
 .	.
+
 ``	``
 You	PRP
 ca	MD
@@ -3001,6 +2812,7 @@ minds	NNS
 says	VBZ
 Gale	NNP
 .	.
+
 Lobster	NNP
 Telephone	NNP
 was	VBD
@@ -3020,6 +2832,7 @@ in	IN
 Wimpole	NNP
 Street	NNP
 .	.
+
 ``	``
 As	RB
 far	RB
@@ -3037,6 +2850,7 @@ phones	NNS
 Gale	NNP
 explained	VBD
 .	.
+
 ``	``
 I	PRP
 'm	VBP
@@ -3049,6 +2863,8 @@ with	IN
 the	DT
 claws…	NN
 ''	''
+.	.
+
 The	DT
 traditional	JJ
 story	NN
@@ -3083,10 +2899,12 @@ from	IN
 the	DT
 Nazis	NNP
 .	.
+
 But	CC
 Gale	NNP
 disagrees	VBZ
 .	.
+
 ``	``
 There	EX
 were	VBD
@@ -3117,6 +2935,7 @@ arriving	VBG
 in	IN
 1940	CD
 .	.
+
 ''	''
 Dorothea	NNP
 Tanning	NNP
@@ -3135,6 +2954,7 @@ in	IN
 the	DT
 US	NNP
 .	.
+
 She	PRP
 saw	VBD
 a	DT
@@ -3153,6 +2973,7 @@ three	CD
 years	NNS
 later	RB
 .	.
+
 She	PRP
 married	VBD
 Max	NNP
@@ -3179,6 +3000,7 @@ the	DT
 Arizona	NNP
 desert	NN
 .	.
+
 ``	``
 She	PRP
 found	VBD
@@ -3214,6 +3036,7 @@ through	IN
 her	PRP$
 work	NN
 .	.
+
 The	DT
 dreamscape	NN
 that	WDT
@@ -3257,6 +3080,7 @@ ideas	NNS
 and	CC
 fears	NNS
 .	.
+
 ''	''
 Eine	NNP
 Kleine	NNP
@@ -3273,6 +3097,7 @@ its	PRP$
 ambiguous	JJ
 symbols	NNS
 .	.
+
 These	DT
 include	VBP
 a	DT
@@ -3299,6 +3124,7 @@ with	IN
 ripped	JJ
 petals	NNS
 .	.
+
 Wilfredo	NNP
 Lam	NNP
 's	POS
@@ -3314,6 +3140,7 @@ in	IN
 South	NNP
 America	NNP
 .	.
+
 His	PRP$
 father	NN
 was	VBD
@@ -3340,6 +3167,7 @@ Surrealists	NNS
 in	IN
 Paris	NNP
 .	.
+
 On	IN
 the	DT
 way	NN
@@ -3356,6 +3184,7 @@ Spanish	JJ
 Civil	NNP
 War	NNP
 .	.
+
 Leaving	VBG
 Europe	NNP
 at	IN
@@ -3377,6 +3206,7 @@ as	IN
 André	NNP
 Breton	NNP
 .	.
+
 ``	``
 When	WRB
 Lam	NNP
@@ -3406,6 +3236,7 @@ and	CC
 social	JJ
 inequality	NN
 .	.
+
 He	PRP
 turned	VBD
 this	DT
@@ -3444,6 +3275,7 @@ States	NNPS
 says	VBZ
 Gale	NNP
 .	.
+
 Bélial	NNP
 Empereur	NNP
 des	FW
@@ -3458,6 +3290,7 @@ the	DT
 Flies	NNPS
 ''	''
 .	.
+
 Venus	NNP
 ,	,
 the	DT
@@ -3498,6 +3331,7 @@ Yoruba	NNP
 thunder	NN
 god	NN
 .	.
+
 The	DT
 title	NN
 refers	NNS
@@ -3528,6 +3362,7 @@ Breton	NNP
 in	IN
 Haiti	NNP
 .	.
+
 It	PRP
 's	VBZ
 testament	JJ
@@ -3555,6 +3390,7 @@ opposition	NN
 to	TO
 colonialism	NN
 .	.
+
 Malangatana	NNP
 Ngwenya	NNP
 was	VBD
@@ -3580,6 +3416,7 @@ impact	NN
 in	IN
 Africa	NNP
 .	.
+
 A	NNP
 committed	JJ
 Marxist	NNP
@@ -3617,6 +3454,7 @@ separation	NN
 from	IN
 Portugal	NNP
 .	.
+
 In	IN
 the	DT
 1960s	NNS
@@ -3636,6 +3474,7 @@ Museum	NNP
 in	IN
 Angola	NNP
 .	.
+
 ``	``
 He	PRP
 is	VBZ
@@ -3661,6 +3500,7 @@ like	IN
 Surrealism	NNP
 '	POS
 .	.
+
 He	PRP
 later	RB
 showed	VBD
@@ -3674,6 +3514,7 @@ and	CC
 in	IN
 Chicago	NNP
 .	.
+
 He	PRP
 is	VBZ
 a	DT
@@ -3685,6 +3526,7 @@ invitation	NN
 explained	VBD
 Gale	NNP
 .	.
+
 Like	IN
 a	DT
 medieval	JJ
@@ -3719,6 +3561,7 @@ a	DT
 fever	JJ
 dream	NN
 .	.
+
 Artists	NNS
 from	IN
 around	IN
@@ -3736,6 +3579,7 @@ offered	VBN
 by	IN
 Surrealism	NNP
 .	.
+
 They	PRP
 used	VBD
 Surrealist	NNP
@@ -3771,6 +3615,7 @@ anti-colonialist	JJ
 –	JJ
 point	NN
 .	.
+
 The	DT
 US	NNP
 poet	NN
@@ -3788,6 +3633,7 @@ character	NN
 of	IN
 Surrealism	NNP
 .	.
+
 ``	``
 Joans	NNP
 was	VBD
@@ -3806,6 +3652,7 @@ lifetime	NN
 Gale	NNP
 explains	VBZ
 .	.
+
 Joans	NNPS
 's	POS
 Long	NNP
@@ -3816,6 +3663,7 @@ life	NN
 's	POS
 work	NN
 .	.
+
 It	PRP
 is	VBZ
 a	DT
@@ -3855,6 +3703,7 @@ the	DT
 next	JJ
 turn	NN
 .	.
+
 ``	``
 But	CC
 this	DT
@@ -3871,6 +3720,7 @@ couple	NN
 of	IN
 decades	NNS
 .	.
+
 There	EX
 are	VBP
 poets	NNS
@@ -3889,6 +3739,7 @@ who	WP
 have	VBP
 contributed	VBN
 .	.
+
 Joans	NNS
 was	VBD
 the	DT
@@ -3914,6 +3765,7 @@ America	NNP
 and	CC
 London	NNP
 .	.
+
 ''	''
 You	PRP
 can	MD
@@ -3952,6 +3804,7 @@ and	CC
 Jacob	NNP
 Lawrence	NNP
 .	.
+
 It	PRP
 seems	VBZ
 to	TO
@@ -3987,9 +3840,11 @@ race	NN
 or	CC
 ethnicity	NN
 .	.
+
 Gale	NNP
 agrees	VBZ
 .	.
+
 ``	``
 It	PRP
 embodies	VBZ
@@ -4001,98 +3856,10 @@ Surrealism	NNP
 was	VBD
 an	DT
 international	JJ
-community	NN
-.	.
+community.	NN
 ''	''
-Surrealism	NNP
-Beyond	NNP
-Borders	NNP
-is	VBZ
-at	IN
-Tate	NNP
-Modern	NNP
-,	,
-London	NNP
-,	,
-until	IN
-29	CD
-August	NNP
-2022	CD
 .	.
-If	IN
-you	PRP
-would	MD
-like	VB
-to	TO
-comment	VB
-on	IN
-this	DT
-story	NN
-or	CC
-anything	NN
-else	RB
-you	PRP
-have	VBP
-seen	VBN
-on	IN
-BBC	NNP
-Culture	NNP
-,	,
-head	NN
-over	IN
-to	TO
-our	PRP$
-Facebook	NNP
-page	NN
-or	CC
-message	VB
-us	PRP
-on	IN
-Twitter	NNP
-.	.
-And	CC
-if	IN
-you	PRP
-liked	VBD
-this	DT
-story	NN
-,	,
-sign	VB
-up	RP
-for	IN
-the	DT
-weekly	JJ
-bbc.com	NN
-features	NNS
-newsletter	NN
-,	,
-called	VBD
-The	DT
-Essential	NNP
-List	NNP
-.	.
-A	NNP
-handpicked	JJ
-selection	NN
-of	IN
-stories	NNS
-from	IN
-BBC	NNP
-Future	NNP
-,	,
-Culture	NNP
-,	,
-Worklife	NNP
-and	CC
-Travel	NNP
-,	,
-delivered	VBD
-to	TO
-your	PRP$
-inbox	NN
-every	DT
-Friday	NNP
-.	.
+
 In	IN
 1938	CD
 ,	,
@@ -4118,6 +3885,7 @@ painter	NN
 Jackson	NNP
 Pollock	NNP
 .	.
+
 For	IN
 International	NNP
 Women	NNP
@@ -4133,7 +3901,7 @@ of	IN
 Janet	NNP
 Sobel	NNP
 .	.
-T	NNP
+
 This	DT
 is	VBZ
 the	DT
@@ -4183,6 +3951,7 @@ defined	VBN
 art	RB
 history	NN
 .	.
+
 Chucking	VBG
 his	PRP$
 bristles	NNS
@@ -4210,6 +3979,7 @@ on	IN
 the	DT
 floor	NN
 .	.
+
 With	IN
 a	DT
 flick	NN
@@ -4281,32 +4051,8 @@ his	PRP$
 unbridled	JJ
 psyche	NN
 .	.
-More	JJR
-like	IN
-this	DT
-:	:
--	:
-A	DT
-painting	NN
-with	IN
-a	DT
-mysterious	JJ
-message	NN
--	:
-Exposing	VBG
-the	DT
-evil	NN
-in	IN
-the	DT
-ordinary	JJ
--	:
-The	DT
-artist	NN
-who	WP
-skewers	VBZ
-white	JJ
-privilege	NN
-''	''
+
+``	``
 During	IN
 the	DT
 summer	NN
@@ -4363,6 +4109,7 @@ transform	VB
 contemporary	JJ
 art	NN
 .	.
+
 ''	''
 Pollock	NNP
 's	POS
@@ -4410,6 +4157,7 @@ who	WP
 's	VBZ
 watching	VBG
 .	.
+
 This	DT
 is	VBZ
 painting	VBG
@@ -4435,11 +4183,13 @@ American	JJ
 could	MD
 invent	VB
 .	.
+
 Only	RB
 it	PRP
 was	VBD
 n't	RB
 .	.
+
 Contrary	JJ
 to	TO
 established	VB
@@ -4483,6 +4233,7 @@ the	DT
 United	NNP
 States	NNPS
 ?	.
+
 ''	''
 –	VBZ
 Pollock	NNP
@@ -4526,6 +4277,7 @@ recent	JJ
 cultural	JJ
 history	NN
 .	.
+
 Put	VB
 simply	RB
 ,	,
@@ -4535,12 +4287,14 @@ has	VBZ
 a	DT
 problem	NN
 .	.
+
 Her	PRP$
 name	NN
 is	VBZ
 Janet	NNP
 Sobel	NNP
 .	.
+
 The	DT
 true	JJ
 story	NN
@@ -4616,6 +4370,7 @@ of	IN
 cultural	JJ
 history	NN
 .	.
+
 Born	NNP
 Jennie	NNP
 Lechovsky	NNP
@@ -4665,6 +4420,7 @@ she	PRP
 was	VBD
 15	CD
 .	.
+
 Much	JJ
 of	IN
 the	DT
@@ -4703,6 +4459,7 @@ reached	VBD
 Ellis	NNP
 Island	NNP
 .	.
+
 It	PRP
 was	VBD
 only	RB
@@ -4740,6 +4497,7 @@ with	IN
 making	VBG
 paintings	NNS
 .	.
+
 ``	``
 One	CD
 story	NN
@@ -4812,6 +4570,7 @@ to	TO
 give	VB
 up	RP
 .	.
+
 When	WRB
 she	PRP
 tried	VBD
@@ -4839,14 +4598,17 @@ n't	RB
 you	PRP
 paint	VB
 ?	.
+
 '	''
 ''	''
 .	.
+
 She	PRP
 was	VBD
 a	DT
 natural	JJ
 .	.
+
 Without	IN
 any	DT
 instilled	JJ
@@ -4893,37 +4655,7 @@ entirely	RB
 from	IN
 scratch	NN
 .	.
-She	PRP
-assaulted	VBD
-the	DT
-surface	NN
-of	IN
-canvases	NNS
-laid	VBN
-out	RP
-on	IN
-the	DT
-floor	NN
-,	,
-orchestrating	VBG
-a	DT
-liquid	JJ
-lyricism	NN
-of	IN
-spills	NNS
-,	,
-splashes	NNS
-and	CC
-spits	VBZ
-the	DT
-likes	NNS
-of	IN
-which	WDT
-had	VBD
-never	RB
-before	RB
-been	VBN
-seen	VBN
+
 The	DT
 first	JJ
 flush	NN
@@ -4969,6 +4701,7 @@ violence	NN
 of	IN
 pogroms	NNS
 .	.
+
 But	CC
 it	PRP
 is	VBZ
@@ -4996,6 +4729,7 @@ to	TO
 pure	VB
 abstraction	NN
 .	.
+
 With	IN
 no	DT
 inculcated	JJ
@@ -5029,6 +4763,7 @@ can	MD
 say	VB
 it	PRP
 .	.
+
 Using	VBG
 unconventional	JJ
 implements	NNS
@@ -5092,6 +4827,7 @@ before	RB
 been	VBN
 seen	VBN
 .	.
+
 The	DT
 result	NN
 was	VBD
@@ -5142,6 +4878,7 @@ Galaxy	NNP
 1947	CD
 )	)
 .	.
+
 Some	DT
 creative	JJ
 coincidences	NNS
@@ -5166,6 +4903,7 @@ same	JJ
 cultural	JJ
 stimuli	NN
 .	.
+
 This	DT
 is	VBZ
 n't	RB
@@ -5173,6 +4911,7 @@ one	CD
 of	IN
 them	PRP
 .	.
+
 Pollock	NNP
 was	VBD
 profoundly	RB
@@ -5189,6 +4928,7 @@ saved	VBN
 the	DT
 receipts	NNS
 .	.
+
 Almost	NNP
 as	RB
 quickly	RB
@@ -5249,6 +4989,7 @@ Rothko	NNP
 to	TO
 Pollock	NNP
 .	.
+
 By	IN
 1944	CD
 ,	,
@@ -5306,6 +5047,7 @@ unrestricted	JJ
 ''	''
 imagination	NN
 .	.
+
 Janis	NNP
 (	(
 who	WP
@@ -5351,6 +5093,7 @@ country	NN
 that	IN
 year	NN
 .	.
+
 Soon	NNP
 after	IN
 ,	,
@@ -5426,6 +5169,7 @@ consciousness	NN
 of	IN
 Pollock	NNP
 .	.
+
 Writing	VBG
 years	NNS
 later	RB
@@ -5484,6 +5228,7 @@ Brooklyn	NNP
 )	)
 ''	''
 .	.
+
 Putting	VBG
 to	TO
 one	CD
@@ -5563,6 +5308,7 @@ was	VBD
 strangely	RB
 pleasing	VBG
 .	.
+
 Later	RB
 on	IN
 ,	,
@@ -5576,14 +5322,16 @@ made	VBN
 an	DT
 impression	NN
 on	IN
-him	PRP
-.	.
+him.	NN
 ''	''
+.	.
+
 Why	WRB
 ``	``
 furtively	RB
 ''	''
 ?	.
+
 It	PRP
 is	VBZ
 ,	,
@@ -5606,6 +5354,7 @@ act	NN
 of	IN
 looking	VBG
 .	.
+
 Despite	IN
 Pollock	NNP
 's	POS
@@ -5636,6 +5385,7 @@ that	DT
 acknowledged	VBD
 impact	NN
 .	.
+
 Greenberg	NNP
 goes	VBZ
 on	IN
@@ -5683,6 +5433,7 @@ painter	NN
 including	VBG
 Sobel	NNP
 .	.
+
 ``	``
 Even	RB
 as	IN
@@ -5712,6 +5463,7 @@ already	RB
 surpassed	VBN
 her	PRP
 .	.
+
 ''	''
 Fortunately	RB
 ,	,
@@ -5755,6 +5507,7 @@ furtive	JJ
 ''	''
 assessment	NN
 .	.
+
 Placed	VBD
 side-by-side	JJ
 with	IN
@@ -5788,6 +5541,7 @@ lashings	NNS
 of	IN
 doubt	NN
 .	.
+
 After	IN
 all	DT
 ,	,
@@ -5802,6 +5556,7 @@ a	DT
 cover	NN
 up	RB
 .	.
+
 ``	``
 At	IN
 first	RB
@@ -5836,6 +5591,7 @@ a	DT
 human	JJ
 figure	NN
 .	.
+
 ''	''
 For	IN
 Sobel	NNP
@@ -5851,6 +5607,7 @@ ritual	JJ
 of	IN
 self-revelation	NN
 .	.
+
 For	IN
 Pollock	NNP
 ,	,
@@ -5868,6 +5625,7 @@ self-concealing	JJ
 a	DT
 mask	NN
 .	.
+
 Whatever	WDT
 one	PRP
 's	VBZ
@@ -5926,6 +5684,7 @@ invention	NN
 or	CC
 not	RB
 .	.
+
 Just	RB
 as	IN
 Sobel	NNP
@@ -5973,6 +5732,7 @@ of	IN
 art	NN
 completely	RB
 .	.
+
 In	IN
 1946	CD
 ,	,
@@ -6020,6 +5780,7 @@ costume	NN
 jewellery	NN
 enterprise	NN
 .	.
+
 Unable	JJ
 to	TO
 drive	VB
@@ -6050,6 +5811,7 @@ an	DT
 important	JJ
 player	NN
 .	.
+
 Compounding	VBG
 that	IN
 geographic	JJ
@@ -6092,6 +5854,7 @@ Sobel	NNP
 principal	JJ
 platform	NN
 .	.
+
 Adding	VBG
 insult	NN
 to	TO
@@ -6136,6 +5899,7 @@ the	DT
 innovation	NN
 entirely	RB
 .	.
+
 By	IN
 1948	CD
 ,	,
@@ -6159,12 +5923,14 @@ the	DT
 art	NN
 world	NN
 .	.
+
 Though	IN
 not	RB
 without	IN
 a	DT
 trace	NN
 .	.
+
 Her	PRP$
 enduring	VBG
 genius	NN
@@ -6205,6 +5971,7 @@ of	IN
 art	JJ
 history	NN
 .	.
+
 If	IN
 you	PRP
 would	MD
@@ -6236,6 +6003,7 @@ us	PRP
 on	IN
 Twitter	NNP
 .	.
+
 And	CC
 if	IN
 you	PRP
@@ -6257,6 +6025,7 @@ The	DT
 Essential	NNP
 List	NNP
 .	.
+
 A	NNP
 handpicked	JJ
 selection	NN
@@ -6279,6 +6048,7 @@ inbox	NN
 every	DT
 Friday	NNP
 .	.
+
 Five	CD
 years	NNS
 before	IN
@@ -6319,6 +6089,7 @@ disappeared	VBN
 from	IN
 history	NN
 .	.
+
 In	IN
 1805	CD
 ,	,
@@ -6349,6 +6120,7 @@ of	IN
 colour	NN
 theory	NN
 .	.
+
 Though	IN
 frustratingly	RB
 few	JJ
@@ -6367,21 +6139,6 @@ survived	VBN
 her	PRP
 unprecedented	JJ
 volume	NN
-An	DT
-Essay	NNP
-on	IN
-Light	NNP
-and	CC
-Shade	NNP
-,	,
-on	IN
-Colours	NNP
-,	,
-and	CC
-on	IN
-Composition	NNP
-in	IN
-General	NNP
 reveals	NNS
 evidence	NN
 of	IN
@@ -6389,6 +6146,7 @@ extraordinary	JJ
 creative	JJ
 genius	NN
 .	.
+
 Modestly	RB
 introduced	VBN
 by	IN
@@ -6441,31 +6199,7 @@ of	IN
 any	DT
 gender	NN
 .	.
-More	JJR
-like	IN
-this	DT
-:	:
--	:
-The	DT
-woman	NN
-written	VBN
-out	IN
-of	IN
-history	NN
--	:
-A	DT
-painting	NN
-with	IN
-a	DT
-mysterious	JJ
-message	NN
--	:
-Exposing	VBG
-the	DT
-evil	NN
-in	IN
-the	DT
-ordinary	NN
+
 At	IN
 first	JJ
 glance	NN
@@ -6510,6 +6244,7 @@ than	IN
 years	NNS
 later	RB
 .	.
+
 But	CC
 look	VB
 again	RB
@@ -6555,6 +6290,7 @@ to	TO
 break	VB
 down	RP
 .	.
+
 Neither	CC
 fragrant	JJ
 blossoms	NNS
@@ -6603,6 +6339,7 @@ and	CC
 Piet	NNP
 Mondrian	NNP
 .	.
+
 More	JJR
 metaphors	NNS
 for	IN
@@ -6630,6 +6367,7 @@ their	PRP$
 amorphous	JJ
 beauty	NN
 .	.
+
 Titled	VBN
 ,	,
 in	IN
@@ -6705,31 +6443,7 @@ with	IN
 others	NNS
 ''	''
 .	.
-There	EX
-is	VBZ
-no	DT
-other	JJ
-example	NN
-of	IN
-a	DT
-representation	NN
-of	IN
-colour	JJ
-systems	NNS
-that	WDT
-is	VBZ
-as	IN
-inventive	JJ
-and	CC
-radical	JJ
-as	IN
-Gartside	NNP
-'s	POS
-colour	JJ
-blots	NNS
-–	VBP
-Alexandra	NNP
-Loske	NNP
+
 Gartside	NNP
 's	POS
 aim	NN
@@ -6775,6 +6489,7 @@ in	IN
 the	DT
 field	NN
 .	.
+
 While	IN
 her	PRP$
 blots	NNS
@@ -6840,6 +6555,7 @@ things	NNS
 :	:
 colour	NN
 .	.
+
 ``	``
 Colours	NNP
 ,	,
@@ -6861,6 +6577,7 @@ smiles	NNS
 of	IN
 nature	NN
 .	.
+
 When	WRB
 they	PRP
 are	VBP
@@ -6886,6 +6603,7 @@ the	DT
 flowers	NNS
 ''	''
 .	.
+
 What	WP
 is	VBZ
 clear	JJ
@@ -6912,6 +6630,7 @@ than	IN
 she	PRP
 did	VBD
 .	.
+
 ``	``
 There	EX
 is	VBZ
@@ -6943,6 +6662,7 @@ colour	NN
 blots	NNS
 ''	''
 .	.
+
 Loske	NNP
 has	VBZ
 devoted	VBN
@@ -6993,6 +6713,7 @@ in	IN
 cultural	JJ
 history	NN
 .	.
+
 ``	``
 If	IN
 somebody	NN
@@ -7040,6 +6761,7 @@ happy	JJ
 to	TO
 hear	VB
 .	.
+
 She	PRP
 is	VBZ
 the	DT
@@ -7051,10 +6773,8 @@ the	DT
 Western	JJ
 world	NN
 .	.
+
 ''	''
-First	NNP
-among	IN
-equals	NNS
 Loske	NNP
 stumbled	VBD
 across	IN
@@ -7085,6 +6805,7 @@ serves	VBZ
 as	IN
 curator	NN
 .	.
+
 ``	``
 They	PRP
 wanted	VBD
@@ -7120,6 +6841,7 @@ men	NNS
 's	POS
 names	NNS
 .	.
+
 And	CC
 then	RB
 I	PRP
@@ -7134,6 +6856,7 @@ was	VBD
 Mary	NNP
 Gartside	NNP
 .	.
+
 Just	NNP
 one	CD
 ,	,
@@ -7146,6 +6869,7 @@ got	VBD
 me	PRP
 going	VBG
 .	.
+
 ''	''
 What	WP
 little	VBZ
@@ -7166,6 +6890,7 @@ sentence	NN
 or	CC
 two	CD
 .	.
+
 Born	VBN
 in	IN
 1755	CD
@@ -7210,6 +6935,7 @@ the	DT
 Royal	NNP
 Academy	NNP
 .	.
+
 In	IN
 Amy	NNP
 Clampitt	NNP
@@ -7283,6 +7009,7 @@ learn	IN
 the	DT
 year	NN
 .	.
+
 ''	''
 During	IN
 lockdown	VBN
@@ -7310,6 +7037,7 @@ date	NN
 to	TO
 1819	CD
 .	.
+
 ``	``
 It	PRP
 was	VBD
@@ -7342,6 +7070,7 @@ her	PRP$
 relative	JJ
 success	NN
 .	.
+
 ''	''
 Gartside	NNP
 's	POS
@@ -7431,6 +7160,7 @@ in	IN
 the	DT
 world	NN
 .	.
+
 Like	IN
 Goethe	NNP
 ,	,
@@ -7501,6 +7231,7 @@ it	PRP
 arguably	RB
 lacked	VBD
 .	.
+
 ``	``
 Calling	VBG
 it	PRP
@@ -7518,6 +7249,7 @@ is	VBZ
 really	RB
 clever	JJ
 .	.
+
 She	PRP
 puts	VBZ
 it	PRP
@@ -7534,6 +7266,7 @@ a	DT
 painting	VBG
 manual	NN
 .	.
+
 She	PRP
 is	VBZ
 most	RBS
@@ -7551,6 +7284,7 @@ them	PRP
 to	TO
 painting	VBG
 .	.
+
 Newton	NNP
 was	VBD
 all	DT
@@ -7567,6 +7301,7 @@ about	IN
 coloured	JJ
 lights	NNS
 .	.
+
 Someone	NN
 had	VBD
 to	TO
@@ -7586,6 +7321,7 @@ does	VBZ
 that	IN
 beautifully	RB
 .	.
+
 ''	''
 The	DT
 spectrum	NN
@@ -7626,6 +7362,7 @@ of	IN
 messy	JJ
 reality	NN
 .	.
+
 Newton	NNP
 's	POS
 insistence	NN
@@ -7690,6 +7427,7 @@ an	DT
 airy	JJ
 ideal	NN
 .	.
+
 The	DT
 century	NN
 between	IN
@@ -7770,10 +7508,7 @@ on	IN
 a	DT
 palette	NN
 .	.
-Refashioning	VBG
-the	DT
-colour	NN
-wheel	NN
+
 Central	NNP
 to	TO
 each	DT
@@ -7830,6 +7565,7 @@ in	IN
 his	PRP$
 Opticks	NNP
 .	.
+
 For	IN
 Goethe	NNP
 ,	,
@@ -7865,6 +7601,7 @@ the	DT
 colour	NN
 wheel	NN
 .	.
+
 In	IN
 1798	CD
 ,	,
@@ -7913,6 +7650,7 @@ diagram	NN
 's	POS
 centre	NN
 .	.
+
 Eventually	RB
 this	DT
 elaborate	JJ
@@ -7946,6 +7684,7 @@ Theory	NN
 of	IN
 Colours	NNP
 .	.
+
 Gartside	NNP
 's	POS
 abstract	JJ
@@ -7976,6 +7715,7 @@ Goethe	NNP
 's	POS
 wheels	NNS
 .	.
+
 By	IN
 erasing	VBG
 the	DT
@@ -8002,6 +7742,7 @@ sing	VBG
 for	IN
 themselves	PRP
 .	.
+
 By	IN
 doing	VBG
 so	RB
@@ -8022,6 +7763,7 @@ work	NN
 of	IN
 art	NN
 .	.
+
 It	PRP
 is	VBZ
 tempting	VBG
@@ -8076,10 +7818,12 @@ artists	NNS
 and	CC
 theorists	NNS
 .	.
+
 Who	WP
 can	MD
 say	VB
 ?	.
+
 But	CC
 it	PRP
 is	VBZ
@@ -8121,6 +7865,7 @@ of	IN
 non-figurative	JJ
 art	NN
 .	.
+
 The	DT
 two	CD
 contemporaries	NNS
@@ -8139,6 +7884,7 @@ from	IN
 incidental	JJ
 substance	NN
 .	.
+
 Turner	NNP
 ,	,
 Loske	NNP
@@ -8179,6 +7925,7 @@ for	IN
 this	DT
 ''	''
 .	.
+
 ``	``
 No	DT
 evidence	NN
@@ -8223,6 +7970,7 @@ or	CC
 dishonestly	RB
 unacknowledged	JJ
 .	.
+
 Such	JJ
 are	VBP
 the	DT
@@ -8245,6 +7993,7 @@ by	IN
 cultural	JJ
 history	NN
 .	.
+
 It	PRP
 's	VBZ
 a	DT
@@ -8278,6 +8027,7 @@ spent	VBN
 time	NN
 resuscitating	VBG
 .	.
+
 Like	IN
 Gartside	NNP
 a	DT
@@ -8320,6 +8070,7 @@ modern	JJ
 art	NN
 milestones	NNS
 .	.
+
 What	WP
 distinguishes	VBZ
 Vanderpoel	NNP
@@ -8404,6 +8155,7 @@ of	IN
 100	CD
 squares	NNS
 .	.
+
 ''	''
 The	DT
 result	NN
@@ -8433,6 +8185,7 @@ his	PRP$
 minimalist	NN
 descendants	NNS
 .	.
+
 To	TO
 measure	VB
 fully	RB
@@ -8476,6 +8229,7 @@ determined	VBN
 to	TO
 rectify	VB
 .	.
+
 ``	``
 I	PRP
 want	VBP
@@ -8501,6 +8255,7 @@ written	VBN
 on	IN
 colour	NNS
 .	.
+
 With	IN
 women	NNS
 there	EX
@@ -8539,6 +8294,7 @@ lets	VBZ
 you	PRP
 publish	VB
 .	.
+
 ''	''
 The	DT
 picture	NN
@@ -8579,6 +8335,7 @@ shapes	NNS
 of	IN
 art	NN
 .	.
+
 I	PRP
 ca	MD
 n't	RB
@@ -8587,6 +8344,7 @@ to	TO
 see	VB
 it	PRP
 .	.
+
 If	IN
 you	PRP
 would	MD
@@ -8618,6 +8376,7 @@ us	PRP
 on	IN
 Twitter	NNP
 .	.
+
 And	CC
 if	IN
 you	PRP
@@ -8639,6 +8398,7 @@ The	DT
 Essential	NNP
 List	NNP
 .	.
+
 A	NNP
 handpicked	JJ
 selection	NN
@@ -8661,3 +8421,9 @@ inbox	NN
 every	DT
 Friday	NNP
 .	.
+
+Prefix	NNP
+not	RB
+found	VBD
+.	.
+

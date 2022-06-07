@@ -9,11 +9,11 @@ import sys
 import string
 
 # training dataset
-with open("WSJ_02-21.pos", 'r') as f:
-    training_corpus = f.readlines()
+# with open("WSJ_02-21.pos", 'r') as f:
+#     training_corpus = f.readlines()
 
 with open("nltk_generated_training_data.txt", 'r') as f:
-    training_corpus += f.readlines()
+    training_corpus = f.readlines()
 
 # with open("WSJ_24.pos", 'r') as f:
 #     training_corpus += f.readlines()
@@ -30,32 +30,46 @@ while True:
     text += line_text + ' '
 # print(text)
 f = open("test_words.txt", 'w')
-voc_l = text.split(' ')
+words = text.split(' ')
 # print(voc_l)
-for i in range(len(voc_l)-1):
+for i in range(len(words)-1):
     if i:
         f.write('\n')
-    for j in range(len(voc_l[i])):
-        if voc_l[i][0] != '"' and (voc_l[i][0]<'A' or (voc_l[i][0]>'Z' and voc_l[i][0]<'a') or voc_l[i][0]>'z'):
-            f.write(voc_l[i])
-            break
-        if (voc_l[i][j]>='a' and voc_l[i][j]<='z') or (voc_l[i][j]>='A' and voc_l[i][j]<='Z'):
-            f.write(f"{voc_l[i][j]}")
+    prev_not_alphabet=0
+    for j in range(len(words[i])):
+        if (words[i][j]<'A' or (words[i][j]>'Z' and words[i][j]<'a') or words[i][j]>'z'):
+            if prev_not_alphabet==0:
+                f.write('\n')
+                print("1")
+            prev_not_alphabet=1
+        elif prev_not_alphabet==1:
+            f.write('\n')
+            prev_not_alphabet=0
+        f.write(f"{words[i][j]}")
+        if words[i][j] == '?' or words[i][j] == '.' or words[i][j] == '!':
+                f.write('\n')
+        
+        # if words[i][0] != '"' and (words[i][0]<'A' or (words[i][0]>'Z' and words[i][0]<'a') or words[i][0]>'z'):
+        #     f.write(words[i])
+        #     break
+        # if (words[i][j]>='a' and words[i][j]<='z') or (words[i][j]>='A' and words[i][j]<='Z'):
+        #     f.write(f"{words[i][j]}")
+        # else if words[i][j]=='.' or words[i][j]==',' or words[i][j]=='!' or words[i][j]=='?' or
 print(text)
 # sys.exit()
 
 # vocab dictionary
-with open("test_vocab.txt", 'r') as f:
-    voc_l += f.read().split('\n')
+# with open("test_vocab.txt", 'r') as f:
+#     voc_l = f.read().split('\n')
 
 with open("nltk_generated_vocabs.txt", 'r') as f:
-    voc_l += f.read().split('\n')
+    voc_l = f.read().split('\n')
 
 # print(voc_l[0:10])
 vocab={}
 # sys.exit()
 
-for i, word in enumerate(set(voc_l)): 
+for i, word in enumerate(sorted(set(voc_l))): 
     vocab[word] = i
 
 # print("Vocabulary dictionary, key is the word, value is a unique integer")
@@ -66,8 +80,8 @@ for i, word in enumerate(set(voc_l)):
 #     if cnt > 50:
 #         break
 
-with open("WSJ_24.pos", 'r') as f:
-    y = f.readlines()
+# with open("WSJ_24.pos", 'r') as f:
+#     y = f.readlines()
 
 _, prep = preprocess(vocab, "test_words.txt")
 

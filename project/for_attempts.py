@@ -1,7 +1,7 @@
 # import string
 # import  numpy as np
 # import pandas as pd
-# import nltk
+import nltk
 # import sys
 from hamcrest import none
 import jieba
@@ -59,23 +59,26 @@ import jieba
 
 
 # data collecting
-# f = open("passage_temp.txt",'r')
-# # x = open("nltk_generated_vocabs.txt",'w')
-# words = f.readlines()
-# text = ""
-# for i in range(len(words)):
-#     text += words[i]
-#     # ee = words[i].split()
-#     # x.write(f"{ee[0]}\n")
-# # print(text)
+f = open("passage_temp.txt",'r')
+# x = open("nltk_generated_vocabs.txt",'w')
+words = f.readlines()
+text = ""
+for i in range(len(words)):
+    text += words[i]
+    # ee = words[i].split()
+    # x.write(f"{ee[0]}\n")
+# print(text)
 
-# tokens = nltk.word_tokenize(text)
-# y = open("nltk_generated_training_data.txt",'a')
-# z = open("nltk_generated_vocabs.txt",'a')
-# listling = nltk.pos_tag(tokens)
-# for i in range(len(listling)):
-#     y.write(f"{listling[i][0]}\t{listling[i][1]}\n")
-#     z.write(f"{listling[i][0]}\n")
+tokens = nltk.word_tokenize(text)
+y = open("nltk_generated_training_data.txt",'a')
+z = open("nltk_generated_vocabs.txt",'a')
+listling = nltk.pos_tag(tokens)
+for i in range(len(listling)):
+    y.write(f"{listling[i][0]}\t{listling[i][1]}\n")
+    z.write(f"{listling[i][0]}\n")
+    if listling[i][0]=='.' or listling[i][0]=='!' or listling[i][0]=='?':
+        y.write('\n')
+        z.write('\n')
 
 
 # with open("tag_help.txt", 'w') as f:
