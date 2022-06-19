@@ -1,1 +1,1 @@
-
+chinese_hmm.py实现中文分词和词性标注，english_hmm.py实现了英文词性标注
